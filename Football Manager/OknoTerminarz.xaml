@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="Football_Manager.OknoTerminarz"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <DockPanel LastChildFill="False">
+        <Button DockPanel.Dock="Bottom" Margin="10" Height="30" Content="Powrot" Name="Powrot" Click="Powrot_Click" />
+        <DockPanel DockPanel.Dock="Top" Margin="10">
+            <Label>Wybierz kolejkę</Label>
+            <ComboBox Name="cbListaKolejek" DisplayMemberPath="kolejka" SelectionChanged="cbListaKolejek_SelectionChanged"></ComboBox>
+            <!--<Label>Kolejka</Label>
+            <Label Name="lKolejka"></Label>-->
+        </DockPanel>
+        <ListView DockPanel.Dock="Top" Margin="10" Opacity="0.9" Name="lTerminarz">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="230" Header="Gospodarz" DisplayMemberBinding="{Binding gospodarz.nazwa}" />
+                    <GridViewColumn Width="40" Header="Wynik" DisplayMemberBinding="{Binding wynik}" />
+                    <GridViewColumn Width="230" Header="Gość" DisplayMemberBinding="{Binding gosc.nazwa}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</UserControl>

@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Football_Manager.OknoOGrze"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <DockPanel>
+        <Button DockPanel.Dock="Bottom" Margin="10" Height="30" Content="Powrot" Name="Powrot" Click="Powrot_Click" />
+        <WrapPanel DockPanel.Dock="Bottom" Margin="10" HorizontalAlignment="Center">
+            <Image Source="copyleft.png" Width="20"></Image>
+            <Label FontSize="12">
+                Aplikacja jest rozpowszechniana na licencji Copyleft.
+            </Label>
+        </WrapPanel>
+        <Label DockPanel.Dock="Bottom" HorizontalAlignment="Center" FontSize="12">
+            Wszystkie dane osobowe, nazwy klubów są fikcyjne. Wszelkie podobieństwo do prawdziwych osób i klubów jest przypadkowe.
+        </Label>
+        <GroupBox Header="O grze" Margin="10">
+            <TextBlock DockPanel.Dock="Top" FontSize="14" FontFamily="Arial" LineHeight="20" Margin="15" TextWrapping="WrapWithOverflow">
+            <Italic>Menedżer piłkarski</Italic> jest grą z gatunku menedżerów piłkarskich. Jest to typ gier łączący w sobie elementy symulacji, gier strategicznych i sportowych.
+            W grze wcielamy się w rolę menedżera klubu. Stajemy się zarówno kierownikiem jak i trenerem drużyny. Do wyboru mamy dwa tryby gry: możemy rozegrać mecz towarzyski lub rozpocząć tryb menedżera. W meczu towarzyskim rozgrywamy pojedyncze spotkanie wybranymi przez nas drużynami. Przed rozpoczęciem meczu możemy przeglądać piłkarzy, ich umiejętności oraz ustalić wyjściową jedenastkę piłkarzy. W oknie taktyka ustalamy formację naszej drużyny, ustawienie (bardzo ofensywne, ofensywne, neutralne, defensywne, bardzo defensywne), pressing, poziom agresji, kapitana drużyny czy wykonawcę stałych fragmentów gry.
+            Natomiast w trybie menedżera wybieramy zespół, który chcemy poprowadzić przez sezon ligowy. W lidze gra 16 drużyn. Jest 30 kolejek po 8 meczów, co daje 240 spotkań w całym sezonie. Pomiędzy kolejkami możemy dokonywać zmian w składzie, formacji, ustawienia drużyny. Celem gracza jest wygrywanie meczów i zajęcie jak najlepszej pozycji w lidze.
+            </TextBlock>
+        </GroupBox>
+    </DockPanel>
+</UserControl>

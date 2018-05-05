@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="Football_Manager.OknoTabela"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <DockPanel LastChildFill="False">
+        <Button DockPanel.Dock="Bottom" Margin="5" Height="30" Content="Powrot" Name="Powrot" Click="Powrot_Click" />
+        <ListView DockPanel.Dock="Top" Margin="5" Name="lTabela">
+            <!--<ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>-->
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="35" Header="Lp." DisplayMemberBinding="{Binding miejsce}" />
+                    <GridViewColumn Width="200" Header="Nazwa" DisplayMemberBinding="{Binding nazwa}" />
+                    <!--<GridViewColumn Width="30" Header="Mecze">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Label Content="{Binding mecze}" HorizontalAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <GridViewColumn Width="30" Header="M" DisplayMemberBinding="{Binding iloscMeczow}" />
+                    <GridViewColumn Width="30" Header="Z" DisplayMemberBinding="{Binding zwyciestwa}" />
+                    <GridViewColumn Width="30" Header="R" DisplayMemberBinding="{Binding remisy}" />
+                    <GridViewColumn Width="30" Header="P" DisplayMemberBinding="{Binding porazki}" />
+                    <GridViewColumn Width="30" Header="G+" DisplayMemberBinding="{Binding goleZdobyte}" />
+                    <GridViewColumn Width="30" Header="G-" DisplayMemberBinding="{Binding goleStracone}" />
+                    <GridViewColumn Width="30" Header="G+/-" DisplayMemberBinding="{Binding goleRoznica}" />
+                    <GridViewColumn Width="30" Header="Pkt" DisplayMemberBinding="{Binding punkty}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</UserControl>

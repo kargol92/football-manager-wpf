@@ -1,0 +1,4 @@
+Aplikacja mo¿e nie ³¹czyæ siê z baz¹ danych, jeœli nie jest zainstalowany Microsoft Office (Access) przynajmniej wersja 2007 oraz jeœli Office jest w wersji 64 bitowej.
+
+Jest mo¿liwoœæ zainstalowania samego silnika bazy danych bez instalacji pakietu Office. Mo¿na pobraæ go ze strony Microsoftu.
+https://www.microsoft.com/en-us/download/details.aspx?id=13255

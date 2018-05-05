@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Football_Manager.OknoOpcje"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <DockPanel LastChildFill="False">
+        <Button DockPanel.Dock="Bottom" Margin="10" Height="30" Name="powrot" Click="powrot_Click">Powrót</Button>
+        <GroupBox Header="Rozmiar okna">
+            <StackPanel>
+                <RadioButton Name="rbMale" Checked="rbMale_Checked">Małe - 700x525</RadioButton>
+                <RadioButton Name="rbSrednie" Checked="rbSrednie_Checked">Średnie - 800x600</RadioButton>
+                <RadioButton Name="rbDuze" Checked="rbDuze_Checked">Duże - 900x675</RadioButton>
+            </StackPanel>
+        </GroupBox>
+    </DockPanel>
+</UserControl>

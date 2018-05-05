@@ -1,0 +1,45 @@
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\bin\x64\Debug\Football Manager.exe
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\bin\x64\Debug\Football Manager.pdb
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Boisko.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoDruzynyTrybMenedzera.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoGlowne.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoMecz.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoOGrze.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoPoMeczu.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoMeczTowarzyski.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoOpcje.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoPrzedMeczem.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTabela.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTerminarz.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTerminarzDruzyny.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTrybMenedzera.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Boisko.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoDruzynyTrybMenedzera.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoGlowne.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoMecz.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoOGrze.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoPoMeczu.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoMeczTowarzyski.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoOpcje.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoPrzedMeczem.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTabela.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTaktyka.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTerminarz.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTerminarzDruzyny.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTrybMenedzera.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoSklad.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\App.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager_MarkupCompile.cache
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager_MarkupCompile.lref
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\MainWindow.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoTaktyka.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\OknoSklad.baml
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager.g.resources
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager.exe
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager.pdb
+C:\Users\Karol\Documents\FootballManagerWPF\Football Manager\obj\x64\Debug\Football Manager.csprojResolveAssemblyReference.cache

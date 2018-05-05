@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="Football_Manager.Akcja" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAABBAAAAAAAAAEAAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Akcja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.App" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.BazaDanych">
+    <Position X="11.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAACEAQAABAAAACAEAAgAEEBAQYAEgAAQAQAQA=</HashCode>
+      <FileName>BazaDanych.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Boisko" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>Boisko.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Generator">
+    <Position X="14.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAABQAABAgAACgEQAzAACAAQSAEAoBQAABQA=</HashCode>
+      <FileName>Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Klub">
+    <Position X="2.25" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAxUAgBgiAAESAAQAIDAIqAEgkIAgAAJUEgMAjESIgA=</HashCode>
+      <FileName>Klub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Kolejka">
+    <Position X="11.5" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAEQAA=</HashCode>
+      <FileName>Kolejka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Liga">
+    <Position X="8.75" Y="9" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAACAAEAAAAAAAgCgAAAAAAAAAMAIAAEBACAQIEA=</HashCode>
+      <FileName>Liga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.MainWindow" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Mecz" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJYKChAEoBYABAQBggAzUJIDCEgQAQAQVYHEEAsQQAA=</HashCode>
+      <FileName>Mecz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Menedzer" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAEAAAICAAAAAAQAAAAAAAIQAgBAAAACAEiA=</HashCode>
+      <FileName>Menedzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoDruzynyTrybMenedzera" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAACEAAAAAAAAAAAAAAAAEIEAAAAAAAAAA=</HashCode>
+      <FileName>OknoDruzynyTrybMenedzera.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoGlowne" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAACCAAAIAAAAAAAAEIAAABAAAAAAA=</HashCode>
+      <FileName>OknoGlowne.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoMecz" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAIAAAAAAAEAAAAAAAABAAAAAAABIAAAgAAEAAAA=</HashCode>
+      <FileName>OknoMecz.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoMeczTowarzyski" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAABACACCAAAAACAAAAAAAkAAEIAIAAAAAAAQA=</HashCode>
+      <FileName>OknoMeczTowarzyski.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoOGrze" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>OknoOGrze.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoOpcje" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAhAAAAAAAAEAAAAAAAAAAAAAAEAAIAAAAAAAAAAA=</HashCode>
+      <FileName>OknoOpcje.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoPoMeczu" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAEAAAAAAAABAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>OknoPoMeczu.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoPrzedMeczem" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAQAAQAAAAAAAAAAAAAAAAABAAAAIQAAAACAAAAA=</HashCode>
+      <FileName>OknoPrzedMeczem.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoSklad" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAEgAQAAAgAAAAAAIAAEAAAAAAAAIEAAAAAEAAAA=</HashCode>
+      <FileName>OknoSklad.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoTabela" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAA=</HashCode>
+      <FileName>OknoTabela.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoTaktyka" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAQQAAAAAAABAAAAAAEAAAAAAAIAAAAAAEAABQ=</HashCode>
+      <FileName>OknoTaktyka.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoTerminarz" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>OknoTerminarz.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoTerminarzDruzyny" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>OknoTerminarzDruzyny.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.OknoTrybMenedzera" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAQAEgAAAAAAAIACMAAABABAAIAAAAAAEAgAA=</HashCode>
+      <FileName>OknoTrybMenedzera.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Pilkarz">
+    <Position X="5.25" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAEAAAICEAEECAEAAAEAAAAAAwAAAAACAIgA=</HashCode>
+      <FileName>Pilkarz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Tabela" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAQAAAQAAAAAAAAACA=</HashCode>
+      <FileName>Tabela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Zdarzenie" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAAABA=</HashCode>
+      <FileName>Zdarzenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Football_Manager.StanMeczu" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mecz.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Football_Manager.Pozycja">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgAABAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pilkarz.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Football_Manager.RodzajZdarzenia">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zdarzenie.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

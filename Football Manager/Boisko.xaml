@@ -1,0 +1,121 @@
+﻿<UserControl x:Class="Football_Manager.Boisko"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             Height="320" Width="220">
+    <Canvas Grid.Column="1" Background="Green" Height="320" Width="220" Name="cBoisko">
+        <Rectangle Canvas.Top="10" Canvas.Left="10" Stroke="White" StrokeThickness="2" Height="300" Width="200"></Rectangle>
+        <Rectangle Canvas.Top="10" Canvas.Left="10" Stroke="White" StrokeThickness="2" Height="150" Width="200"></Rectangle>
+        <Rectangle Canvas.Top="10" Canvas.Left="45" Stroke="White" StrokeThickness="2" Height="55" Width="130"></Rectangle>
+        <Rectangle Canvas.Top="255" Canvas.Left="45" Stroke="White" StrokeThickness="2" Height="55" Width="130"></Rectangle>
+        <Rectangle Canvas.Top="10" Canvas.Left="82" Stroke="White" StrokeThickness="2" Height="20" Width="55"></Rectangle>
+        <Rectangle Canvas.Top="290" Canvas.Left="82" Stroke="White" StrokeThickness="2" Height="20" Width="55"></Rectangle>
+        <Ellipse Canvas.Top="135" Canvas.Left="82" Stroke="White" StrokeThickness="2" Height="45" Width="55"></Ellipse>
+        <Ellipse Canvas.Top="30" Canvas.Left="82" Stroke="White" StrokeThickness="2" Height="45" Width="55">
+            <Ellipse.Clip>
+                <RectangleGeometry Rect="0,35,55,10"/>
+            </Ellipse.Clip>
+        </Ellipse>
+        <Ellipse Canvas.Top="245" Canvas.Left="82" Stroke="White" StrokeThickness="2" Height="45" Width="55">
+            <Ellipse.Clip>
+                <RectangleGeometry Rect="0,0,55,10"/>
+            </Ellipse.Clip>
+        </Ellipse>
+        <!--<Rectangle Stroke="White" StrokeThickness="2" Canvas.Top="50" Canvas.Left="108" Height="2" Width="2"></Rectangle>-->
+
+        <Label FontSize="25" Foreground="White" Canvas.Top="20"  Canvas.Left="95" >1</Label>
+
+        <Canvas Visibility="Hidden" Name="c5_4_1">
+            <Label FontSize="25" Foreground="White" Canvas.Top="65"  Canvas.Left="60" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="65"  Canvas.Left="140">3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="85"  Canvas.Left="25" >4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="95" >5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="85"  Canvas.Left="175">6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="150" Canvas.Left="20" >7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="65" >8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="135">9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="150" Canvas.Left="170">10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="200" Canvas.Left="90" >11</Label>
+        </Canvas>
+
+        <Canvas Visibility="Hidden" Name="c5_3_2">
+            <Label FontSize="25" Foreground="White" Canvas.Top="65"  Canvas.Left="60" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="65"  Canvas.Left="140">3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="85"  Canvas.Left="25" >4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="95" >5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="85"  Canvas.Left="175">6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="130" Canvas.Left="40" >7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="135" Canvas.Left="95" >8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="130" Canvas.Left="160">9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="195" Canvas.Left="55" >10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="195" Canvas.Left="135">11</Label>
+        </Canvas>
+
+        <Canvas Visibility="Hidden" Name="c4_5_1">
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="30" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="70" >3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="130">4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="170">5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="120" Canvas.Left="60" >6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="120" Canvas.Left="140">7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="30" >8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="95" >9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="155">10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="200" Canvas.Left="90" >11</Label>
+        </Canvas>
+
+        <Canvas Visibility="Visible" Name="c4_4_2">
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="30" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="70" >3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="130">4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="170">5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="150" Canvas.Left="30" >6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="125" Canvas.Left="65" >7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="125" Canvas.Left="135">8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="150" Canvas.Left="170">9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="200" Canvas.Left="55" >10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="200" Canvas.Left="135">11</Label>
+        </Canvas>
+
+        <Canvas Visibility="Visible" Name="c4_3_3">
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="30" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="70" >3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="130">4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="80"  Canvas.Left="170">5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="125" Canvas.Left="40" >6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="145" Canvas.Left="95" >7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="125" Canvas.Left="155">8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="185" Canvas.Left="40" >9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="195" Canvas.Left="90" >10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="185" Canvas.Left="150">11</Label>
+        </Canvas>
+
+        <Canvas Visibility="Visible" Name="c3_5_2">
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="40" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="95" >3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70"  Canvas.Left="155">4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="120" Canvas.Left="60" >5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="120" Canvas.Left="140">6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="30" >7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="95" >8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="155" Canvas.Left="165">9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="200" Canvas.Left="55" >10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="200" Canvas.Left="130">11</Label>
+        </Canvas>
+
+        <Canvas Visibility="Visible" Name="c3_4_3">
+            <Label FontSize="25" Foreground="White" Canvas.Top="70" Canvas.Left="40" >2</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70" Canvas.Left="95" >3</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="70" Canvas.Left="155">4</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="130"  Canvas.Left="30" >5</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="110"  Canvas.Left="65" >6</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="110"  Canvas.Left="135">7</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="130"  Canvas.Left="170">8</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="185" Canvas.Left="40" >9</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="195" Canvas.Left="90" >10</Label>
+            <Label FontSize="25" Foreground="White" Canvas.Top="185" Canvas.Left="150">11</Label>
+        </Canvas>
+    </Canvas>
+</UserControl>

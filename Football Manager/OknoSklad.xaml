@@ -1,0 +1,236 @@
+﻿<UserControl x:Class="Football_Manager.OknoSklad"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:ucl="clr-namespace:Football_Manager"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <DockPanel>
+        <!--<Label DockPanel.Dock="Bottom"  Name="lWybranyPilkarz" />
+        <Label DockPanel.Dock="Bottom"  Content="1. piłkarz: " />-->
+        <!--<WrapPanel DockPanel.Dock="Bottom">
+            <Label Content="bramkarze: " />
+            <Label Name="lBramkarze" />
+            <Label Content="obroncy: " />
+            <Label Name="lObroncy" />
+            <Label Content="pomocnicy: " />
+            <Label Name="lPomocnicy" />
+            <Label Content="napastnicy: " />
+            <Label Name="lNapastnicy" />
+        </WrapPanel>-->
+        <Button DockPanel.Dock="Bottom" Margin="10" Height="30" Content="Powrot" Name="Powrot" Click="Powrot_Click" />
+        <Grid DockPanel.Dock="Top" ShowGridLines="False">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <!--<Grid.Resources>
+                <Style TargetType="TabItem">
+                    <Setter Property="Width" Value="{Binding Path=ActualWidth,    
+                     RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type TabControl}}}"/>
+                </Style>
+            </Grid.Resources>-->
+            <GroupBox Grid.Column="0" Header="Drużyna" Name="gbDruzyna">
+                <ListView Name="listaPilkarzy" SelectionChanged="listaPilkarzy_SelectionChanged" MouseDoubleClick="listaPilkarzy_MouseDoubleClick" KeyDown="listaPilkarzy_KeyDown">
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Setter Property="Height" Value="20" />
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Width="25" Header="Nr" DisplayMemberBinding="{Binding nr}" />
+                            <GridViewColumn Width="75" Header="Imię" DisplayMemberBinding="{Binding imie}" />
+                            <GridViewColumn Width="105" Header="Nazwisko" DisplayMemberBinding="{Binding nazwisko}" />
+                            <GridViewColumn Width="35" Header="Wiek" DisplayMemberBinding="{Binding wiek}" />
+                            <GridViewColumn Width="105" Header="Umiejętności">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <!--<ProgressBar Height="15" MinWidth="65" Value="{Binding Path=umiejetnosci, Mode=OneWay}"/>-->
+                                        <Rectangle Height="15" Width="{Binding Path=umiejetnosci, Mode=OneWay}">
+                                            <Rectangle.Fill>
+                                                <LinearGradientBrush>
+                                                    <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                                    <GradientStop Color="Green" Offset="0"></GradientStop>
+                                                </LinearGradientBrush>
+                                            </Rectangle.Fill>
+                                        </Rectangle>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </GroupBox>
+            <TabControl Grid.Column="1" Name="tabControl1">
+                <TabItem Header="Umiejętności" Width="190" Name="tabItem1">
+                    <GroupBox Header="Piłkarz" Name="gbPilkarz">
+                        <Grid ShowGridLines="False" Grid.Column="1" Margin="5">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" Content="Umiejętności">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Umiejętności</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Średni poziom wszystkich umiejętności piłkarza. Pełni rolę informacyjną - nie wpływa na poziom drużyny w czasie meczu.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <Label Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" Content="Umiejętności bramkarskie">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Umiejętności bramkarskie</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Najważniejsza umięjętność na pozycji bramkarza. Razem z obrońcami wpływa na siłę obrony.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <Label Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" Content="Defensywa">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Defensywa</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Odpowiada za poziom gry obrońców.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <Label Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" Content="Rozgrywanie">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Rozgrywanie</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Umiejętność typowa dla pomocników. Od niej zależy procent posiadania piłki przez drużynę.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <Label Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" Content="Strzały">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Strzały</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Im wyższy poziom umiętności <Italic>Strzały</Italic> mają napastnicy, tym większa szansa na zdobycie gola z sytuacji stworzonych przez linię pomocy.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <Label Grid.Column="0" Grid.Row="5" VerticalAlignment="Center" Content="Kondycja">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Kondycja</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Kondycja ma wpływ na pressing. Jeśli drużyna zamierza grać wysokim pressingiem, lepiej żeby pomocnicy mieli silną kondycję.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <Label Grid.Column="0" Grid.Row="6" VerticalAlignment="Center" Content="Przywództwo">
+                                <Label.ToolTip>
+                                    <StackPanel>
+                                        <Label Padding="5" FontWeight="Bold" Background="Green" Foreground="White">Przywództwo</Label>
+                                        <TextBlock Padding="5" Width="250" TextWrapping="WrapWithOverflow">
+                                            Piłkarz z wysokim poziomem przywództwa zwiększa posiadanie piłki.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Label.ToolTip>
+                            </Label>
+                            <!--<Label Grid.Column="0" Grid.Row="7" VerticalAlignment="Center">Najlepsza pozycja</Label>-->
+                            <Rectangle Grid.Column="1" Grid.Row="0" Height="25" Width="0" HorizontalAlignment="Left" Name="umiejetnosci">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Grid.Column="1" Grid.Row="1" Height="25" Width="0" HorizontalAlignment="Left" Name="umBramkarskie">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Grid.Column="1" Grid.Row="2" Height="25" Width="0" HorizontalAlignment="Left" Name="defensywa">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Grid.Column="1" Grid.Row="3" Height="25" Width="0" HorizontalAlignment="Left" Name="rozgrywanie">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Grid.Column="1" Grid.Row="4" Height="25" Width="0" HorizontalAlignment="Left" Name="skutecznosc">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Grid.Column="1" Grid.Row="5" Height="25" Width="0" HorizontalAlignment="Left" Name="kondycja">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Grid.Column="1" Grid.Row="6" Height="25" Width="0" HorizontalAlignment="Left" Name="przywodztwo">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush>
+                                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Label Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" Foreground="White" Name="lPoziom"></Label>
+                            <Label Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" Foreground="White" Name="lUmBramkarskie"></Label>
+                            <Label Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" Foreground="White" Name="lDefensywa"></Label>
+                            <Label Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" Foreground="White" Name="lRozgrywanie"></Label>
+                            <Label Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" Foreground="White" Name="lStrzaly"></Label>
+                            <Label Grid.Column="1" Grid.Row="5" VerticalAlignment="Center" Foreground="White" Name="lKondycja"></Label>
+                            <Label Grid.Column="1" Grid.Row="6" VerticalAlignment="Center" Foreground="White" Name="lPrzywodztwo"></Label>
+                            <!--<ProgressBar Grid.Column="1" Grid.Row="0" Height="20" Name="umiejetnosci" IsIndeterminate="False" FlowDirection="LeftToRight"></ProgressBar>
+                            <ProgressBar Grid.Column="1" Grid.Row="1" Height="20" Name="umBramkarskie"></ProgressBar>
+                            <ProgressBar Grid.Column="1" Grid.Row="2" Height="20" Name="defensywa"></ProgressBar>
+                            <ProgressBar Grid.Column="1" Grid.Row="3" Height="20" Name="rozgrywanie"></ProgressBar>
+                            <ProgressBar Grid.Column="1" Grid.Row="4" Height="20" Name="skutecznosc"></ProgressBar>
+                            <ProgressBar Grid.Column="1" Grid.Row="5" Height="20" Name="kondycja"></ProgressBar>
+                            <ProgressBar Grid.Column="1" Grid.Row="6" Height="20" Name="forma"></ProgressBar>-->
+                            <!--<Label       Grid.Column="1" Grid.Row="7" VerticalAlignment="Center" Name="lNajlepszaPozycja"></Label>-->
+                        </Grid>
+                    </GroupBox>
+                </TabItem>
+                <TabItem Header="Ustawienie" Width="190" Name="tabItem2">
+                    <Grid>
+                        <ucl:Boisko x:Name="boisko" />
+                    </Grid>
+                </TabItem>
+            </TabControl>
+        </Grid>
+    </DockPanel>
+</UserControl>

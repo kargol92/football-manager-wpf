@@ -1,0 +1,468 @@
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\bin\Release\Football Manager.exe
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\bin\Release\Football Manager.pdb
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.g.resources
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+C:\Documents and Settings\ADMIN\Pulpit\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\bin\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\bin\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Boisko.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\App.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\MainWindow.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.csproj.GenerateResource.Cache
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 08.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\bin\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\bin\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Boisko.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\App.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\MainWindow.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.csproj.GenerateResource.Cache
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 13.03.2015\Football Manager WPF mecze bez relacji\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Dokumenty Karola\UwB praca licencjacka 26.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.csproj.GenerateResource.Cache
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 30.05.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.csproj.GenerateResource.Cache
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 17.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.exe
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\ResolveAssemblyReference.cache
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GenerateResource.read.1.tlog
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GenerateResource.write.1.tlog
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\UwB praca licencjacka 23.06.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.pdb
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.exe
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.pdb
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\ResolveAssemblyReference.cache
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko1.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPomoc.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GenerateResource.read.1.tlog
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\GenerateResource.write.1.tlog
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+D:\UwB praca licencjacka 29.06.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\bin\Release\Football Manager.pdb
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\App.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\MainWindow.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.csproj.GenerateResource.Cache
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 09.07.2015\Football Manager WPF\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\bin\Release\Football Manager.exe
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\ResolveAssemblyReference.cache
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Boisko.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\App.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\MainWindow.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\GenerateResource.read.1.tlog
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\GenerateResource.write.1.tlog
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.exe
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\UwB praca licencjacka 26.08.2015\Kody źródłowe aplikacji\Football Manager\bin\Release\Football Manager.pdb
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.pdb
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\bin\Release\Football Manager.exe
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\bin\Release\Football Manager.pdb
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Boisko.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoGlowne.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMecz.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOGrze.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPoMeczu.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOpcje.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTabela.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarz.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Boisko.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\MainWindow.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoDruzynyTrybMenedzera.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoGlowne.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMecz.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOGrze.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPoMeczu.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoMeczTowarzyski.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoOpcje.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoPrzedMeczem.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTabela.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTaktyka.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarz.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTerminarzDruzyny.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTrybMenedzera.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoSklad.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\App.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.cache
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager_MarkupCompile.lref
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\MainWindow.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoTaktyka.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\OknoSklad.baml
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.g.resources
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football_Manager.Properties.Resources.resources
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Dokumenty Karola\UwB praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.exe
+D:\Dokumenty Karola\UwB praca licencjacka 03.09.2015\Kody źródłowe aplikacji\Football Manager\obj\x86\Release\Football Manager.pdb

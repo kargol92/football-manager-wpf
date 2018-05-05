@@ -1,0 +1,35 @@
+﻿<Window x:Class="Football_Manager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ucl="clr-namespace:Football_Manager"
+        Title="Menedżer piłkarski"
+        Height="600" Width="800"
+        ResizeMode="CanMinimize">
+    <Grid ShowGridLines="False" Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="135"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" VerticalAlignment="Center" Source="logo.png"/>
+        <WrapPanel Grid.Row="1" Margin="0">
+            <Button Name="bPowrot" ToolTip="Powrót" Margin="15 0" Click="bPowrot_Click">&lt;&lt;</Button>
+            <Label Name="lMenu">Menu >></Label>
+        </WrapPanel>
+        <Grid Grid.Row="2" ShowGridLines="False" Margin="5">
+            <ucl:OknoGlowne x:Name="oknoGlowne" Visibility="Visible"/>
+            <ucl:OknoMeczTowarzyski x:Name="oknoMeczTowarzyski" Visibility="Hidden"/>
+            <ucl:OknoDruzynyTrybMenedzera x:Name="oknoDruzynyTrybMenedzera" Visibility="Hidden"/>
+            <ucl:OknoOGrze x:Name="oknoOGrze" Visibility="Hidden"/>
+            <ucl:OknoTrybMenedzera x:Name="oknoTrybMenedzera" Visibility="Hidden"/>
+            <ucl:OknoSklad x:Name="oknoSklad" Visibility="Hidden"/>
+            <ucl:OknoTaktyka x:Name="oknoTaktyka" Visibility="Hidden"/>
+            <ucl:OknoTabela x:Name="oknoTabela" Visibility="Hidden"/>
+            <ucl:OknoTerminarz x:Name="oknoTerminarz" Visibility="Hidden"/>
+            <ucl:OknoTerminarzDruzyny x:Name="oknoTerminarzDruzyny" Visibility="Hidden"/>
+            <ucl:OknoPrzedMeczem x:Name="oknoPrzedMeczem" Visibility="Hidden"/>
+            <ucl:OknoMecz x:Name="oknoMecz" Visibility="Hidden"/>
+            <ucl:OknoPoMeczu x:Name="oknoPoMeczu" Visibility="Hidden"/>
+        </Grid>
+    </Grid>
+</Window>

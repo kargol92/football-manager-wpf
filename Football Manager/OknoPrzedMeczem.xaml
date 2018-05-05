@@ -1,0 +1,125 @@
+﻿<UserControl x:Class="Football_Manager.OknoPrzedMeczem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.RowSpan="3" Margin="5" ShowGridLines="False">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Name="lGospodarzNazwa"></Label>
+            <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center">Gospodarz - Gość</Label>
+            <Label Grid.Row="0" Grid.Column="2" HorizontalAlignment="Right" Name="lGoscNazwa"></Label>
+            <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Name="lPoziom">Poziom</Label>
+            <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Name="lAtak">Atak</Label>
+            <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" Name="lPomoc">Pomoc</Label>
+            <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" Name="lObrona">Obrona</Label>
+            <!--<ProgressBar Grid.Row="1" Grid.Column="0" Height="20" Value="50" FlowDirection="LeftToRight" Name="pbPoziomGospodarz"></ProgressBar>-->
+            <!--<ProgressBar Grid.Row="1" Grid.Column="2" Height="20" Value="50" FlowDirection="RightToLeft" Name="pbPoziomGosc"></ProgressBar>-->
+            <Rectangle Grid.Row="1" Grid.Column="0" Height="20" Width="50" HorizontalAlignment="Left" Name="rPoziomGospodarz">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="1" Grid.Column="2" Height="20" Width="50" HorizontalAlignment="Right" Name="rPoziomGosc">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label Grid.Row="1" Grid.Column="0" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left" Name="lPoziomGospodarz"></Label>
+            <Label Grid.Row="1" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" Name="lPoziomGosc"></Label>
+            <!--<ProgressBar Grid.Row="2" Grid.Column="0" Height="20" FlowDirection="LeftToRight" Name="pbAtakGospodarz"></ProgressBar>
+            <ProgressBar Grid.Row="2" Grid.Column="2" Height="20" FlowDirection="RightToLeft" Name="pbAtakGosc"></ProgressBar>-->
+            <Rectangle Grid.Row="2" Grid.Column="0" Height="20" Width="50" HorizontalAlignment="Left" Name="rAtakGospodarz">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="2" Grid.Column="2" Height="20" Width="50" HorizontalAlignment="Right" Name="rAtakGosc">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label Grid.Row="2" Grid.Column="0" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left" Name="lAtakGospodarz"></Label>
+            <Label Grid.Row="2" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" Name="lAtakGosc"></Label>
+            <!--<ProgressBar Grid.Row="3" Grid.Column="0" Height="20" FlowDirection="LeftToRight" Name="pbPomocGospodarz"></ProgressBar>
+            <ProgressBar Grid.Row="3" Grid.Column="2" Height="20" FlowDirection="RightToLeft" Name="pbPomocGosc"></ProgressBar>-->
+            <Rectangle Grid.Row="3" Grid.Column="0" Height="20" Width="50" HorizontalAlignment="Left" Name="rPomocGospodarz">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="3" Grid.Column="2" Height="20" Width="50" HorizontalAlignment="Right" Name="rPomocGosc">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label Grid.Row="3" Grid.Column="0" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left" Name="lPomocGospodarz"></Label>
+            <Label Grid.Row="3" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" Name="lPomocGosc"></Label>
+            <!--<ProgressBar Grid.Row="4" Grid.Column="0" Height="20" FlowDirection="LeftToRight" Name="pbObronaGospodarz"></ProgressBar>
+            <ProgressBar Grid.Row="4" Grid.Column="2" Height="20" FlowDirection="RightToLeft" Name="pbObronaGosc"></ProgressBar>-->
+            <Rectangle Grid.Row="4" Grid.Column="0" Height="20" Width="50" HorizontalAlignment="Left" Name="rObronaGospodarz">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="4" Grid.Column="2" Height="20" Width="50" HorizontalAlignment="Right" Name="rObronaGosc">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Label Grid.Row="4" Grid.Column="0" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left" Name="lObronaGospodarz"></Label>
+            <Label Grid.Row="4" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" Name="lObronaGosc"></Label>
+        </Grid>
+        <Button Grid.Row="3" Margin="10" Name="rozpocznijMecz" Click="rozpocznijMecz_Click">Rozpocznij mecz</Button>
+        <Button Grid.Row="4" Margin="10" Name="Sklad" Click="Sklad_Click">Skład</Button>
+        <Button Grid.Row="5" Margin="10" Name="Taktyka" Click="Taktyka_Click">Taktyka</Button>
+        <!--<Button Grid.Row="6" Margin="10">Opcje</Button>-->
+        <Button Grid.Row="6" Margin="10" Name="Powrot" Click="Powrot_Click">Powrót</Button>
+    </Grid>
+</UserControl>

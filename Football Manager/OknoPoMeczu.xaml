@@ -1,0 +1,164 @@
+﻿<UserControl x:Class="Football_Manager.OknoPoMeczu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             IsVisibleChanged="UserControl_IsVisibleChanged">
+    <DockPanel Margin="5">
+        <Button DockPanel.Dock="Bottom" Margin="10" Height="30" Name="powrot" Click="powrot_Click">Powrot</Button>
+        <Grid DockPanel.Dock="Top" ShowGridLines="False">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Grid.Row="1" Grid.Column="0" Height="20" Width="100" HorizontalAlignment="Left" Name="rPosiadaniePilkiGospodarz">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="1" Grid.Column="2" Height="20" Width="100" HorizontalAlignment="Right" Name="rPosiadaniePilkiGosc">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="2" Grid.Column="0" Height="20" Width="0" HorizontalAlignment="Left" Name="rSkutecznoscAtakuGospodarz">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Grid.Row="2" Grid.Column="2" Height="20" Width="0" HorizontalAlignment="Right" Name="rSkutecznoscAtakuGosc">
+                <Rectangle.Fill>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+
+            <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Name="lGospodarzNazwa">gospodarz</Label>
+            <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Name="lGole">Gole</Label>
+            <Label Grid.Row="0" Grid.Column="2" HorizontalAlignment="Right" Name="lGoscNazwa">gosc</Label>
+            <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center">Posiadanie pilki</Label>
+            <Label Grid.Row="1" Grid.Column="0" Foreground="White" HorizontalAlignment="Left" Name="lPosiadaniePilkiGospodarz">50</Label>
+            <Label Grid.Row="1" Grid.Column="2" Foreground="White" HorizontalAlignment="Right" Name="lPosiadaniePilkiGosc">50</Label>
+            <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">Skutecznosc ataku</Label>
+            <Label Grid.Row="2" Grid.Column="0" Foreground="White" HorizontalAlignment="Left" Name="lSkutecznoscAtakuGospodarz">50</Label>
+            <Label Grid.Row="2" Grid.Column="2" Foreground="White" HorizontalAlignment="Right" Name="lSkutecznoscAtakuGosc">50</Label>
+            <Label Grid.Row="3" Grid.Column="0" HorizontalAlignment="Left" Name="lGospodarzIloscAkcji"></Label>
+            <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center">Ilosc akcji</Label>
+            <Label Grid.Row="3" Grid.Column="2" HorizontalAlignment="Right" Name="lGoscIloscAkcji"></Label>
+            <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center">Formacja</Label>
+            <Label Grid.Row="4" Grid.Column="0" HorizontalAlignment="Left"  Name="lFormacjaGospodarz"></Label>
+            <Label Grid.Row="4" Grid.Column="2" HorizontalAlignment="Right" Name="lFormacjaGosc"></Label>
+            <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center">Ustawienie</Label>
+            <Label Grid.Row="5" Grid.Column="0" HorizontalAlignment="Left"  Name="lUstawienieGospodarz"></Label>
+            <Label Grid.Row="5" Grid.Column="2" HorizontalAlignment="Right" Name="lUstawienieGosc"></Label>
+            <Label Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center">Pressing</Label>
+            <Label Grid.Row="6" Grid.Column="0" HorizontalAlignment="Left"  Name="lPressingGospodarz"></Label>
+            <Label Grid.Row="6" Grid.Column="2" HorizontalAlignment="Right" Name="lPressingGosc"></Label>
+            <Label Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center">Agresja</Label>
+            <Label Grid.Row="7" Grid.Column="0" HorizontalAlignment="Left"  Name="lAgresjaGospodarz"></Label>
+            <Label Grid.Row="7" Grid.Column="2" HorizontalAlignment="Right" Name="lAgresjaGosc"></Label>
+            <Label Grid.Row="8" Grid.Column="1" HorizontalAlignment="Center">Kapitan</Label>
+            <Label Grid.Row="8" Grid.Column="0" HorizontalAlignment="Left"  Name="lKapitanGospodarz"></Label>
+            <Label Grid.Row="8" Grid.Column="2" HorizontalAlignment="Right" Name="lKapitanGosc"></Label>
+            <Label Grid.Row="9" Grid.Column="1" HorizontalAlignment="Center">Stałe fragmenty gry</Label>
+            <Label Grid.Row="9" Grid.Column="0" HorizontalAlignment="Left"  Name="lStaleFragmentyGospodarz"></Label>
+            <Label Grid.Row="9" Grid.Column="2" HorizontalAlignment="Right" Name="lStaleFragmentyGosc"></Label>
+
+            <!--<ProgressBar Grid.Row="1" Grid.Column="0" Height="20" Value="50" Foreground="Green" Background="LightGreen" Name="pbPosiadaniePilkiGospodarz"></ProgressBar>
+            <ProgressBar Grid.Row="1" Grid.Column="2" Height="20" Value="50" Foreground="LightGreen" Background="Green" Name="pbPosiadaniePilkiGosc"></ProgressBar>
+            <ProgressBar Grid.Row="3" Grid.Column="0" Height="20" Value="50" Foreground="Green" Background="LightGreen" Name="pbSkutecznoscAtakuGospodarz"></ProgressBar>
+            <ProgressBar Grid.Row="3" Grid.Column="2" Height="20" Value="50" Foreground="LightGreen" Background="Green" Name="pbSkutecznoscAtakuGosc"></ProgressBar>-->
+        </Grid>
+        <Grid DockPanel.Dock="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ListView Grid.Column="0" Name="lGospodarzGole">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="30" Header="Minuta"
+                        DisplayMemberBinding="{Binding minuta}" />
+                        <GridViewColumn Width="70" Header="Imię"
+                        DisplayMemberBinding="{Binding pilkarz.imie}" />
+                        <GridViewColumn Width="120" Header="Nazwisko"
+                        DisplayMemberBinding="{Binding pilkarz.nazwisko}" />
+                        <GridViewColumn Header="Zdarzenie"
+                        DisplayMemberBinding="{Binding rodzaj}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Grid.Column="1" Name="lGoscGole">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="30" Header="Minuta"
+                    DisplayMemberBinding="{Binding minuta}" />
+                        <GridViewColumn Width="70" Header="Imię"
+                    DisplayMemberBinding="{Binding pilkarz.imie}" />
+                        <GridViewColumn Width="120" Header="Nazwisko"
+                    DisplayMemberBinding="{Binding pilkarz.nazwisko}" />
+                        <GridViewColumn Header="Zdarzenie"
+                    DisplayMemberBinding="{Binding rodzaj}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+
+
+
+                <!--<ListView Grid.Column="0" Name="lGospodarz11">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="30" Header="Nr"
+                        DisplayMemberBinding="{Binding nr}" />
+                        <GridViewColumn Width="70" Header="Imię"
+                        DisplayMemberBinding="{Binding imie}" />
+                        <GridViewColumn Width="120" Header="Nazwisko"
+                        DisplayMemberBinding="{Binding nazwisko}" />
+                        <GridViewColumn Header="Poziom"
+                        DisplayMemberBinding="{Binding umiejetnosci}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Grid.Column="1" Name="lGosc11">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="30" Header="Nr"
+                        DisplayMemberBinding="{Binding nr}" />
+                        <GridViewColumn Width="70" Header="Imię"
+                        DisplayMemberBinding="{Binding imie}" />
+                        <GridViewColumn Width="120" Header="Nazwisko"
+                        DisplayMemberBinding="{Binding nazwisko}" />
+                        <GridViewColumn Header="Poziom"
+                        DisplayMemberBinding="{Binding umiejetnosci}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>-->
+        </Grid>
+    </DockPanel>
+</UserControl>
