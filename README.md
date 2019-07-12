@@ -1,6 +1,7 @@
 Football Manager WPF
 ====================
 Football manager is a simple game written in C# - Windows Presentation Foundation. It uses Microsoft Access database.
+Project is undeveloped / abandoned.
 
 Project site - [karol-kiersnowski.prv.pl](http://karol-kiersnowski.prv.pl/projects.php?lang=en&theme=default#football-manager-wpf)
 
