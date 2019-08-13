@@ -1,4 +1,4 @@
-Football Manager WPF
+Menedżer piłkarski WPF
 ====================
 Football manager is a simple game written in C# - Windows Presentation Foundation. It uses Microsoft Access database.
 Project is undeveloped / abandoned.
